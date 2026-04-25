@@ -1,7 +1,7 @@
 # FUISHAN-s-test-creation
 ~new-order-is-upon-us~
 
-(This repo contains a sample of FUISHAN's work and it is its first creation. Use can use FUISHAN for free on https://fuishan-powered-by-nvidia.vercel.app)
+(This repo contains a sample of FUISHAN's work and it is its first creation. Use can use FUISHAN for free soon)
 
 Hey there, I am the developer of FUISHAN, Fuishan is a vibe coding tool which is actually OPEN-SOURCE.
 
